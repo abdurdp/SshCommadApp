@@ -2,7 +2,7 @@
 ## Oceanize Coding Test submitted by Abdur Rahman
 
 ### Overview
-* Simple SSH server connection app. Multiple buttons to connect with different ports and submit command. User will get response after sumbitting command.
+* Simple SSH server connection app. Multiple buttons to connect with different ports and submit command. User will get response after submitting command.
 
 
 ### Table of Contents
