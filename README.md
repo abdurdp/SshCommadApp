@@ -8,7 +8,6 @@
 ### Table of Contents
 * [Idea](#idea)
 * [Technologies Used](#technologies-used)
-* [Frameworks](#frameworks)
 * [App Snapshots](#app-snapshots)
 * [Contributors](#contributors)
 
